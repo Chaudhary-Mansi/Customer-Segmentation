@@ -31,11 +31,10 @@ Customer Retention: Identify long-term customers and offer loyalty programs to k
 Revenue Growth: Focus high-value offers on customers who are likely to spend more based on their segment profile.
 
 **How to Run the Project:**
-**Clone the repository:**
-git clone https://github.com/yourusername/customer-segmentation-clustering.git
 
-**Install the required libraries:**
-pip install -r requirements.txt
+**Clone the repository:** git clone https://github.com/yourusername/customer-segmentation-clustering.git
+
+**Install the required libraries:** pip install -r requirements.txt
 
 **Conclusion:**
 This project provides businesses with powerful insights into customer behavior, enabling data-driven marketing decisions. By segmenting customers and tailoring strategies to each group, companies can enhance their customer relationships and drive revenue growth.
